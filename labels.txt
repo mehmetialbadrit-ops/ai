@@ -1,0 +1,6 @@
+0 frost
+1 lightning
+2 rain
+3 rainbow
+4 sandstorm
+5 snow
